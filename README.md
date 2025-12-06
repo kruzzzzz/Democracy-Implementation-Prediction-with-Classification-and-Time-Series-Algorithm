@@ -1,2 +1,8 @@
 # Democracy-Implementation-Prediction-with-Classification-and-Time-Series-Algorithm
 This research aimed to predict electoral democracy outcomes in Southeast Asian countries using a combination of classification and time-series algorithms. We focused on electoral democracy as the target variable, using data sourced from the Varieties of Democracy (V-Dem) dataset. Independent variables included indicators such as the number of executive elections, party freedom, voter rate, freedom of expression, and fairness of selection. For classification, we evaluated machine learning models including k-Nearest Neighbors, Decision Tree, Support Vector Machine (SVM), and Random Forest. Then trend and forecasting analysis, we applied time-series methods such as ARIMA, Simple Exponential Smoothing, and Holt’s Exponential Smoothing. 
+
+Team:
+- Adhitya Prasethio
+- Cristiano Ronaldo
+- Wilsen Oktavianus
+- Yosua Rheinhart Tanzil
